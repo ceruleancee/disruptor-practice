@@ -1,2 +1,2 @@
-# disruptor-practice
-Disruptor LMAX
+# Disruptor LMAX
+Disruptor LMAX practice
